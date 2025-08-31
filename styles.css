@@ -5,10 +5,13 @@
   font-style: normal;
 }
 
-.h1 {
+h1 {
   font-family: "blood-terror-font";
-  text-align: "center";
   color: red;
   font-size: 48px;
   text-transform: uppercase;
+}
+
+.center {
+  text-align: "center";
 }
