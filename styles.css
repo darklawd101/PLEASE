@@ -8,10 +8,9 @@
 h1 {
   font-family: "blood-terror-font";
   color: red;
-  font-size: 48px;
+  font-size: 88px;
   text-transform: uppercase;
+  text-align: center;
 }
 
-.center {
-  text-align: "center";
-}
+
